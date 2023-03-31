@@ -1,0 +1,9 @@
+.idea
+.vscode
+.tgzx
+.dec
+.DS_Store
+.env
+.envrc
+.history
+*.log
